@@ -1,6 +1,6 @@
 # World DB
 
-Living reference for the current campaign (the English session notes in `../English/`).
+Living reference for the current campaign (the English session notes in `../Current/`).
 Rebuilt/updated after every new session is added.
 
 ## Files
@@ -13,7 +13,7 @@ Rebuilt/updated after every new session is added.
 
 ## Update workflow (do this after adding a new session note)
 
-1. Read the new session file in `../English/`.
+1. Read the new session file in `../Current/`.
 2. **timeline.md**: append a new entry summarizing the session.
 3. **characters.md / locations.md / factions.md**: add any new entries; update existing ones if their status changed (e.g. a character died, a place was destroyed, a faction's goal was revealed).
 4. **plot-threads.md**:
@@ -21,4 +21,4 @@ Rebuilt/updated after every new session is added.
    - Add any new open questions raised by the new session to *Active*.
    - Never delete a resolved question outright - it stays in the *Resolved* archive.
 
-This DB only covers the current campaign (Kalen, Erios, Kenshin, Fabio, Cael, Romina - the Ilshiar district storyline). The unrelated `Session 6` folder is a separate, earlier campaign and is not tracked here.
+This DB only covers the current campaign (Kalen, Erios, Kenshin, Fabio, Cael, Romina - the Ilshiar district storyline). The unrelated `../Past/` folder (Session 6, Session 7, ...) holds earlier campaigns and is not tracked here.

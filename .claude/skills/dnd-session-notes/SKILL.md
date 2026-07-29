@@ -1,11 +1,11 @@
 ---
 name: dnd-session-notes
-description: Turn a raw D&D session transcript (.txt) into a session-summary note matching the existing Valkara campaign style (Title / Summary / Key Events / Open Questions), saved into English/ with the right filename. Use when the user gives a transcript file path and asks to write up session notes, generate a session summary, or invokes /dnd-session-notes.
+description: Turn a raw D&D session transcript (.txt) into a session-summary note matching the campaign style (Title / Summary / Key Events / Open Questions), saved into Current/ with the right filename. Use when the user gives a transcript file path and asks to write up session notes, generate a session summary, or invokes /dnd-session-notes.
 ---
 
 # D&D Session Notes from Transcript
 
-Turn a raw session transcript into a polished session-summary note for the Valkara campaign, matching the exact structure and tone already established in `Valkara - Ecos de un nuevo mundo/English/`.
+Turn a raw session transcript into a polished session-summary note for the campaign, matching the exact structure and tone already established in `Valkara - Ecos de un nuevo mundo/Current/`.
 
 ## Input
 
@@ -15,7 +15,7 @@ Turn a raw session transcript into a polished session-summary note for the Valka
 
 ## Before drafting
 
-1. Read the two most recent existing files in `Valkara - Ecos de un nuevo mundo/English/` to recalibrate tone, section rhythm, and prose density - don't rely on memory of the format, it drifts.
+1. Read the two most recent existing files in `Valkara - Ecos de un nuevo mundo/Current/` to recalibrate tone, section rhythm, and prose density - don't rely on memory of the format, it drifts.
 2. Read the World DB for canon spelling and continuity: `Valkara - Ecos de un nuevo mundo/World DB/characters.md`, `locations.md`, `factions.md`, and `plot-threads.md`. The raw transcript will have inconsistent or phonetic spellings of names and terms (character names, place names, in-world words like *cenizo* or *báculo*) - normalize everything to the World DB's canon. If the transcript introduces a name or place that isn't in the World DB, keep it as-is and flag it to the user rather than guessing a spelling.
 3. Read the full transcript before drafting anything. Identify the chronological run of distinct scenes or beats - these become the numbered Key Events subsections. Do this pass fully before writing, since an early beat's framing sometimes only makes sense in light of how the session ends (see how the Style rules below treat foreshadowing).
 
@@ -64,5 +64,5 @@ Turn a raw session transcript into a polished session-summary note for the Valka
 ## Output
 
 - Filename: `dnd_session_<YYYY-MM-DD>_en.md`.
-- Save into `Valkara - Ecos de un nuevo mundo/English/`.
+- Save into `Valkara - Ecos de un nuevo mundo/Current/`.
 - After writing the file, tell the user it's done. Then remind them that `Valkara - Ecos de un nuevo mundo/World DB/README.md` defines an update workflow (timeline, characters, locations, factions, plot-threads) that should run next, and offer to do it - but don't run it unprompted, since it edits five other files.

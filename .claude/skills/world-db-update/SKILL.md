@@ -9,7 +9,7 @@ Apply one new session's events to the five living-reference files in `Valkara - 
 
 ## Input
 
-- The user will point to a session note, or just say "update the World DB" after a new one was added. If it's ambiguous which session note to use, list the files in `Valkara - Ecos de un nuevo mundo/English/` and pick the most recent by the date in the filename (`dnd_session_<YYYY-MM-DD>_en.md`) - confirm with the user if more than one plausible candidate exists.
+- The user will point to a session note, or just say "update the World DB" after a new one was added. If it's ambiguous which session note to use, list the files in `Valkara - Ecos de un nuevo mundo/Current/` and pick the most recent by the date in the filename (`dnd_session_<YYYY-MM-DD>_en.md`) - confirm with the user if more than one plausible candidate exists.
 - If the session note doesn't exist yet, don't fabricate one - point the user to the `dnd-session-notes` skill first (or ask for the transcript).
 
 ## Before editing anything

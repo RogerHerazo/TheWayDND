@@ -29,6 +29,7 @@ A restaurant near the docks. Kenshin and Cael stalled here over breakfast while 
 
 ### The docks
 Where the party plans to reconvene and board *The Aurora* to escape the city by sea, with land routes being sealed by Sergeant Holt (session 2026-07-14).
+Site of a chaotic reunion: Romina turned up unconscious near a fruit cart, a vendor tried to scam Cael, and the party hid below deck through a guard search of the ship before it sailed out past the harbor's closing chains (session 2026-07-28).
 
 ### The Arch
 An ancient portal structure. The King has secretly ordered its reconstruction, per a royal decree found among the stolen registry cylinders. Leads to "The Path of the Veil."
@@ -39,3 +40,13 @@ A dangerous plane reached via The Arch. Feared and culturally avoided by the Ils
 
 ### The Aurora
 Victor's ship, marked with a red flower insignia. Its cargo/operations are unknown - possibly smuggling given Victor's secretive, monocled demeanor.
+Confirmed to smuggle people as well as goods; has a concealed hold reached through a hatch in the mast, and is crewed not by living sailors but by a handful of translucent ghost sailors Victor summons by flute. Now sailing toward Ilvana with the full party aboard (session 2026-07-28).
+
+### Ilvana
+An inland city, reachable from the coast by a roughly fifteen-day voyage. New destination the party redirected Victor toward, since the Arch proved too far inland to reach without cutting back through the closed city (session 2026-07-28).
+
+### Siltara
+A place devastated by the Aeonic being Nexus Vorath in a past incarnation of the party's lives, per a shared dream revelation. Sat directly above the Dunshal city of Belsharun. Nothing else about it is known yet (session 2026-07-28).
+
+### Belsharun
+A Dunshal city, apparently the party's origin point in a past incarnation, destroyed or badly damaged by Nexus Vorath. Site of a ritual in which some of the party were captured by an Aeonic, leading to Kalen's pact never to return. Known only through a shared dream revelation, not yet visited in the present timeline (session 2026-07-28).
