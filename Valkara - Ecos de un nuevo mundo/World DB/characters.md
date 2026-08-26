@@ -9,7 +9,8 @@ Went into hiding with Erios; helped fake Erios's execution as a rescue cover.
 In the plaza brawl, blasted Mole repeatedly and caught Erios's falling sister out of the air.
 Recalled that the seaside cave hideout also leads to a stretch of beach outside the city walls, though he'd never actually followed it out (session 2026-07-14). Had Fabio deliver money to Erios's family instead of doing it himself, to avoid his own face being recognized.
 Rigged the escape tunnel with a gunpowder trail and a false dead end, sparking it with *Eldritch Blast* to collapse it on the pursuing guards, then flew Fabio and Erios in on *Chimuelo* to catch *The Aurora* after it had already sailed (session 2026-07-28). A shared dream revealed that in a past incarnation he was captured during a ritual in the Dunshal city of Belsharun and struck a pact with an Aeonic - as an "Aeonic spark" himself - to never return there, in exchange for the group's freedom.
-Told by a fragment-of-Will stranger traveling with the party that his current self may be only a projection sustained by a ring, his true self still trapped in the Aeonic dimension since that very pact - and that breaking the ring would release its stored Aeonic power as a catastrophic explosion (session 2026-08-11).
+Told by Naut, revealed to be a fragment of pure Will, that his current self may be only a projection sustained by a ring, his true self still trapped in the Aeonic dimension since that very pact - and that breaking the ring would release its stored Aeonic power as a catastrophic explosion (session 2026-08-11).
+Spent a drunken night on the road to Ilvana trying and failing to freeze spilled liquor with *Shape Water* (session 2026-08-18).
 
 ### Erios
 Ashen (*cenizo*) youth, sorcerer. Scorching Ray, Sorcery Points, can alter his own facial features with magic.
@@ -18,6 +19,7 @@ Took 35 fall damage in Mole's gravity vortex, dropped to 1 HP, then unleashed tw
 **Formally exiled by his own people** (session 2026-07-14) after Naut's speech on destiny versus will pushed him to throw a punch (which landed on Naut). His father was separately taken hostage by the Crown to flush him out; with nowhere left to go among the Ilshiar, he has no real choice but to travel on with the party.
 Escaped the city via the tunnel and beach with Kalen and Fabio, then flew in on *Chimuelo* to catch *The Aurora* (session 2026-07-28). A shared dream revealed he is, like Kalen, an "Aeonic spark" from a past incarnation tied to the ritual and pact made in Belsharun.
 Spent the voyage toward Doria working through the trauma of his exile, picking up scraps of sailing knowledge from the ghost crew and sparring and practicing magic with Kalen (session 2026-08-11).
+Tested the unnervingly perfect land outside Doria by deliberately kicking waymarker stones out of alignment, and talked his way into Ilvana by claiming his destiny was to save the world (session 2026-08-18).
 
 ### Kenshin
 Monk. Quarterstaff/longsword, Stunning Strike, Shifu technique.
@@ -26,6 +28,7 @@ Knocked unconscious by the gravity vortex fall (40 damage, failed save even with
 Currently holds a pendant belonging to Naut, which pulsed with unexplained intensity during Naut's speech to Erios (session 2026-07-14). Got tangled in a contradictory cover story with Cael at an Ilshiar checkpoint, resulting in an armed "escort" to the docks; his pet rat Mickey went missing in the confusion.
 Negotiated passage aboard *The Aurora* with Cael (session 2026-07-28); Mickey was returned to him by a talking bird he'd once helped. During the shared dream about Nexus Vorath, a passing mention of "Kenshin's brother" struck him with an unexplained pang - left unaddressed by the group.
 Held at blade-point during the Bielar's ambush of the ship, and spent the following voyage meditating to control surges of anger he'd noticed building in himself since taking up his cursed collar (session 2026-08-11).
+Activated the pendant to navigate the overland route toward Doria; at Ilvana's gate, cited "adopting my brother" as his wildest deed to a Reader. Was later singled out by a Reader as having a thread unlike any other and escorted deeper into the city by a squad of them, apparently toward the Weaver herself (session 2026-08-18).
 
 ### Fabio
 Heavy armor, giant shield, casts Magic Missile - also summons a spectral flying mount, "Chimuelo."
@@ -34,6 +37,7 @@ Landed two Magic Missile hits on Mole, including the near-finishing blow. Chimue
 Tasked with leaving a store credit in Erios's family's name at a local shop, so the money couldn't be easily refused or traced back to Kalen (session 2026-07-14).
 Shielded the group's tunnel escape from the gunpowder blast with his shield and armor, then offered his enchanted collar as backup collateral toward Victor's toll before the party covered it with coin and gems instead (session 2026-07-28).
 Held at trident-point during the Bielar's ambush of the ship (session 2026-08-11).
+Speculated that Ilvana's total, fearful discipline - no crime, no beggars, not even an armed guard in sight - must be hiding something worse than anything the party has faced yet (session 2026-08-18).
 
 ### Cael
 Monk. Flurry of Blows, Stunning Strike, Slow Fall reaction.
@@ -42,6 +46,7 @@ Delivered the finishing blows on Mole (staff to the temple, then a punch that br
 Tried to stop Erios from punching Naut but got his sleeve caught on the table instead (session 2026-07-14). Talked his way past a suspicious checkpoint guard alongside Kenshin, then bribed the waiter Lucas to stage a rock-throwing distraction and shake their guard escort near the docks.
 Negotiated *The Aurora*'s passage with Victor, then intimidated a scamming fruit vendor into backing off after Romina was found unconscious near his cart (session 2026-07-28). Discovered, while paying Victor's toll in Dunshal *ectarion* gems, that he casts no shadow at all.
 Tried to take the Bielar's leader hostage during the sea ambush using his shadow-step ability and was stabbed twice for it; afterward spent an *ectarion* gem to learn *Counterspell* and has been keeping an in-world written chronicle of the party's exploits (session 2026-08-11).
+Warded himself (and incidentally Romina, standing next to him) with *Mesh Ward* during the drunken night on the road, and talked his way into Ilvana with a deliberately vague cover story about a mission for the Weaver (session 2026-08-18).
 
 ### Romina
 Scourge Speech (amplified, unsettling voice), Misty Step, bird familiar/summon, Cause Fear.
@@ -50,6 +55,7 @@ Separated from the group during the retreat - fled down a different route alone 
 Survived a multi-hour solo escape through the city's sewers (session 2026-07-14): scared off a guard with *Cause Fear*, used *Infestation* on a rat as a deterrent, bribed an Ashen family for safe passage through their home, and crawled for hours through the tunnels before surfacing near a commercial district. Took shelter at Bern's tavern under a mud-and-tears cover story, and was handed a sealed message the next morning directing her to the docks and the ship *The Aurora*.
 Turned up unconscious near a fruit cart at the docks, apparently delivered there by Naut, with no visible injury and no explanation given for what happened between the tavern and the docks; still unconscious when the party boarded *The Aurora* (session 2026-07-28).
 Awake and active by the time of the Bielar ambush; struck an unconventional bargain with the Bielar to end the standoff peacefully, an act that finally dissolved the long-standing inner emptiness and sense of owed debt she'd carried, leaving something like a feeling of credit in her favor instead (session 2026-08-11).
+**Captured** inside Ilvana's tower (session 2026-08-18): after learning and returning the Readers' ritual gesture to talk her own way into the city alone, she went straight to the central tower, where an aquamarine-robed weaver bound her in living golden thread and declared her thread would have to be unraveled and put away - the session ended with her bound, silenced, and blinded by the thread, fate unknown.
 
 ## NPCs
 
@@ -71,8 +77,10 @@ As of session 2026-07-14, Erios's father has been publicly arrested and taken to
 ### Naut
 Ilshiar-devoted contact; almost certainly the mysterious figure who sheltered the party at the end of the previous session, though this was never stated outright.
 Delivered a long speech to Erios on destiny versus will (session 2026-07-14), praising him for fighting Mole out of pure choice rather than fate - a speech that ended with Erios punching him. Recovered the land-cession cylinder from Daef's body and used it to cede the entire Ilshiar district to "the Casino."
-Owns a pendant currently held by Kenshin that pulsed with unexplained intensity during his speech. Referenced a personal quest of his own - finding a sister, and pursuing "a fragment of destiny" - that the party had once asked him to join and that he'd once refused.
+Owns a pendant currently held by Kenshin that pulsed with unexplained intensity during his speech (later revealed, session 2026-08-18, to actually belong to his missing sister and to work as a directional compass toward her). Referenced a personal quest of his own - finding a sister, and pursuing "a fragment of destiny" - that the party had once asked him to join and that he'd once refused.
 Delivered an unconscious Romina to the docks and got her aboard *The Aurora*, though how he found her or what happened to her was never explained; boarded the ship himself, casually eating fruit throughout (session 2026-07-28). A shared party dream suggested he is almost certainly one of two children of a mysterious old man/dragon figure, the other being the sister he's searching for, both needed to reseal the Aeonic threat Nexus Vorath.
+Revealed during the voyage to *Ilvana* to be a self-described fragment of pure Will - one of several fragments broken off from Will itself in an ancient clash with Destiny, and by his own account the best of them - confirming his father is "the old man" from the shared dream and that his own "wretched sister" is the fragment of Destiny he's been searching for all along (session 2026-08-11; that session's notes initially logged him as a separate, unnamed NPC nicknamed "El Mando" before later transcript evidence confirmed this was Naut himself). Told Kalen that Kalen's current self may be only a projection sustained by a ring, his true self trapped in the Aeonic dimension since the Belsharun pact, and that the ring holds a portion of accumulated Aeonic power that would release as a catastrophic explosion if broken - an outcome he seemed to hunger for rather than fear. Demonstrated an ability to compel simple acts of will directly, putting Victor to sleep on command as a casual example, and mentioned having grown rich at a casino before joining the voyage.
+Walked overland with the party from the Bay of Loose Knots toward Doria, guiding them with his sister's pendant - the same method, it emerged, once used to track down Naut himself. Grew visibly weaker as the land grew more unnervingly perfect approaching Ilvana, the will-like glow in his eyes dimming until he retreated bodily into the pendant for safekeeping, asking not to be disturbed for two or three days unless it was tapped three times (session 2026-08-18).
 
 ### Sergeant Holt
 Guard officer overseeing the citywide crackdown following Mole's death; ordered all land routes out of the city sealed, forcing the party toward a sea escape (session 2026-07-14).
@@ -103,19 +111,15 @@ Identity and motives unknown - possibly connected to an organized Resistance.
 ### Mickey
 Kenshin's pet rat. Fell unnoticed from Kenshin's shoulder during the rooftop chase after the Registry explosion and went missing (session 2026-07-14).
 Returned to the party at the docks, carried there by a talking bird he'd once helped find food for its family; reunited with Kenshin aboard *The Aurora* (session 2026-07-28).
+Reunited with the party again at the Bay of Loose Knots, arriving frozen and visibly traumatized after witnessing part of Romina's night with the Bielar; got roaringly drunk again on the road to Ilvana (session 2026-08-18).
 
 ### The old man
 Unnamed figure who appeared to the party in a shared dream, first as a rampaging dragon calmed by the party's music, then as an old man by a fogbound forest campfire.
-Explained that the world is threatened by an Aeonic being called Nexus Vorath and that he had sent the party (in a past incarnation) to find his two children - the only ones who can grant the power needed to defeat, capture, or reseal it. One of those children is almost certainly Naut (session 2026-07-28).
+Explained that the world is threatened by an Aeonic being called Nexus Vorath and that he had sent the party (in a past incarnation) to find his two children - the only ones who can grant the power needed to defeat, capture, or reseal it. One of those children is almost certainly Naut (session 2026-07-28); Naut confirmed this himself, naming "the old man" as his father and identifying his own missing sister as the second child, a fragment of Destiny (session 2026-08-11).
 
 ### Nexus Vorath
 An Aeonic being, per the old man's account brought into this world by humanity itself from the party's original world. Devastated a place called Siltara and the Dunshal city beneath it, Belsharun, in a past incarnation of the party's lives.
 Not yet encountered directly - known only through the shared dream revelation (session 2026-07-28).
-
-### The fragment of Will ("El Mando" - name unconfirmed)
-A stranger traveling with the party by session 2026-08-11, heard addressed or referred to as "El Mando," though his true name was never clearly established. Self-describes as a fragment of pure Will, one of several small pieces broken off from Will itself during an ancient clash with Destiny; claims to be the best of those fragments.
-Says his father is "the old man" from the party's shared dream, and that his "wretched sister" is the counterpart fragment of Destiny - he is traveling with the party (after a stint growing rich at a casino) in search of her.
-Revealed to Kalen that Kalen's current self may be only a projection sustained by a ring, his true self trapped in the Aeonic dimension since the Belsharun pact, and that the ring holds a portion of accumulated Aeonic power that would release as a catastrophic explosion if broken - an outcome he seems to hunger for himself rather than fear. Demonstrated an ability to compel simple acts of will directly, putting Victor to sleep on command as a casual example (session 2026-08-11).
 
 ### The Bielar leader
 An unnamed elder among the Bielar, a sea-folk at peace (if rarely in contact) with the Ilshiar. Wields twin daggers with lethal speed and led the ambush on *The Aurora* to destroy its magical lanterns before the predator Borges could track the ship by scent.
@@ -124,3 +128,15 @@ Stabbed Cael twice after he tried to take her hostage, but ultimately struck a b
 ### Borges
 A serpentine sea predator that hunts by tracking the scent of magic; has been stalking *The Aurora* for some time, forcing the Bielar to attack the ship's magical lanterns to keep from drawing it in.
 Glimpsed only once, as a massive shadow breaching the ocean's surface at a distance; not yet directly encountered (session 2026-08-11).
+
+### The roadside stranger (unnamed)
+A groomed man encountered at a waymarker stone on the road to Ilvana, wearing a jacket with a triangular pendant of converging lines - the same symbol carved into the waymarker stones. Tested the party philosophically about destiny, ownership, and whether their presence was even part of "the Weave" (*la trama*) of this land, and warned their threads didn't belong in Ilvana's story.
+Departed oddly after plucking out one of his own hairs and discarding it - removing a shoe and walking off in the opposite direction, barefoot on one foot (session 2026-08-18).
+
+### The aquamarine-robed weaver (unnamed)
+A tejedor (weaver) of middling rank inside Ilvana's tower, escorted by Readers. Intercepted Romina at the base of the tower, declaring her thread had lingered too long in the city and was tied to something he didn't understand.
+Bound her to a stone chair with living golden thread, informing her without malice that her existence wasn't part of the Weaver's plan for Ilvana and that her thread would have to be rewound and put away (session 2026-08-18).
+
+### The Tejedora (the Weaver)
+The unseen ruler of Ilvana, referred to by her subjects only as "la Tejedora." Commands the Readers and weavers who police the city's "Weave" (*la trama*), and is rumored to know or dictate everyone's destined role in it.
+Not yet met directly; possibly, though unconfirmed, the missing sister Naut has been searching for (session 2026-08-18).

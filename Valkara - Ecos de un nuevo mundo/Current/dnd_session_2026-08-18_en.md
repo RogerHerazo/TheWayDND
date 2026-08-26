@@ -1,0 +1,46 @@
+# D&D Session Summary: The Threads of Ilvana
+
+## Summary
+Dropped at the Bay of Loose Knots by a departing Victor, the party set out overland toward Doria and Ilvana, following a direction cast by the pendant tied to Naut's missing sister as their only compass. The deeper they walked into the region's unnervingly perfect wilderness - flawless fruit, birdsong timed like a rehearsed score, waymarker stones counting down the miles - the weaker Naut became, his aura of raw will visibly dimming until he retreated into the pendant itself for safekeeping, leaving the rest of the party to a drunken, uneasy night on the road. A strange, thread-obsessed local tested them with riddles about fate and "the Weave" before they finally reached Ilvana's gates, where masked Readers interrogated each of them in turn with a ritualized "what do you come for," letting them bluff, lie, and posture their way inside one by one. Once within the unnervingly orderly city - no crime, no beggars, not even an armed guard in sight - the group splintered: Kenshin was pulled aside and escorted deeper into the city by a squad of Readers who found his "thread" unlike any other, while Romina, striking out alone toward the central tower, was lured into a chamber and bound to a chair by living golden thread, told flatly that her existence wasn't part of the Weaver's plan and would have to be unraveled.
+
+---
+
+## Key Events
+
+### 1. Farewell to *The Aurora*
+* **A frozen homecoming:** Mickey finally reappeared at the Bay of Loose Knots, skating unsteadily across the water on a floating chunk of ice, clearly still shaken after having witnessed the opening moments of Romina's night with the Bielar back on the ship.
+* **A ghost's goodbye:** The Aurora's translucent crew gathered on deck to see the party off, one of them - the ship's mop-wielding ghost - visibly mournful that no one would ever again watch Kalen sweep the deck the way he once had.
+* **Onto the sand:** The party waded ashore onto a wild, untouched stretch of beach, watching *The Aurora* pull away toward open water as the ghost crew waved from the rail.
+
+### 2. The Long Walk to Doria
+* **A pendant for a compass:** Kenshin activated the pendant he'd carried since Naut's speech - tied, it turned out, not to Naut himself but to his missing sister - and it cast a glowing blue line pointing north, the same method the group had once used to track down Naut himself.
+* **Counting down the miles:** A trail of square, moss-covered waymarker stones appeared alongside the path at roughly half-hour intervals, each carved with a descending number and, later, a symbol of converging lines; the party clocked the pace and used the numbers to estimate how much distance remained.
+* **Too perfect to be natural:** The wilderness around them grew steadily more uniform - fruit without a single blemish, birdsong that seemed to continue itself like one unbroken song, a flock of sheep crossing the road in an unnervingly exact single file - unsettling enough that Erios began deliberately kicking waymarker stones out of alignment just to prove it could still be done.
+* **The farmer at the crossroads:** A campesino serving the Kingdom of Doria greeted them with a two-fingered "pulling" gesture and the phrase *que encuentres tu función* ("may you find your function"), politely declining an invitation to drink with them since - "I do what I want," he insisted, even as he described only ever doing exactly what his role required - his harvest wasn't finished.
+
+### 3. Naut's Fading Light
+* **A glow going out:** Naut grew visibly winded and uncomfortable as the party pushed deeper into the region, and Kenshin and Romina both noticed the once-vivid, will-like glow in his eyes - present since they'd first met him at the casino - burning noticeably dimmer.
+* **Retreating into the pendant:** Overwhelmed and unable to stand the place any longer, Naut asked Kenshin to draw close, then dissolved directly into the pendant around his neck, asking not to be disturbed for two or three days unless the pendant was tapped three times - Kenshin could still hear his voice in his mind from inside it.
+* **A drunken watch:** With Naut gone quiet, Kalen, Fabio, and a very willing Mickey got thoroughly drunk around a campfire - wasting a bottle trying and failing to freeze liquor with *Shape Water*, wrestling playfully over an ice-encased, hungover Mickey - while Cael and Kenshin kept a soberer watch nearby.
+* **A new ward:** Cael successfully cast a shielding cantrip on himself and, incidentally, on Romina standing beside him, over her mild objection that they "didn't know each other that well" for that kind of magic.
+
+### 4. The Rider on the Road and the Gates of Ilvana
+* **A test of threads:** Another waymarker brought them to a groomed stranger wearing a triangular, converging-lines pendant, who dismissed their stated purpose as not fitting "the Weave" (*la trama*) of this land - a tense philosophical back-and-forth with Romina about destiny, ownership, and whether the party might simply be "a new addition to the story" - before he plucked out a hair, tossed it down, wished them luck, and walked off in the opposite direction, one shoe removed and discarded.
+* **Ilvana at night:** The party arrived after dark at a walled approach to a colossal white tower ringed by identical triangular buildings, its perfection so complete that no trash, noise, or disorder marred a single street.
+* **What do you come for:** At a black stone arch, masked Readers in blue conical hats questioned each entrant in turn with the ritual gesture and phrase; the party bluffed their way through one by one - Kenshin claiming his wildest deed was "adopting my brother," Erios claiming he'd come "to save the world" - and were waved in one after another with the blessing *que encuentres tu función*.
+* **Romina's separate crossing:** Delayed behind at the first gate, Romina alone learned and returned the Readers' gesture correctly, spun a five-years-on-the-road story about her own destiny leading her to the Weaver, and talked her way through entirely on her own.
+
+### 5. Kenshin's Summons and Romina's Unraveling
+* **A city that never breaks stride:** Inside Ilvana, the party noticed every citizen moving with the same unhurried, destiny-certain purpose - no guards, no weapons, no visible crime anywhere - which struck Fabio as more ominous than reassuring: this kind of universal discipline, he reasoned, only comes from fear of something worse than anything they'd faced yet.
+* **A thread out of place:** A Reader stopped the group and singled out Kenshin, declaring his thread tied to something unusual; before the others could object, four more Readers surrounded him and led him away to be brought before the Weaver, leaving the rest to debate whether to wait or go looking for him.
+* **Romina reaches the tower:** Walking alone to the city's central plaza, Romina found the great white tower had no visible door - until a different official, in an aquamarine robe, emerged with an escort of Readers, declared her thread had lingered too long and was tied to something they didn't understand, and led her inside instead of Kenshin.
+* **Bound in gold:** Seated in a stone chair inside the tower, Romina was bound by living golden thread that crept from her arms to her chest to her throat as the robed weaver informed her, without malice, that her thread had never been part of the Weaver's plan for Ilvana and would simply have to be rewound and put away; her attempt to *Misty Step* free failed the instant the thread reached her mouth and silenced the spell's incantation, and the last thing she felt was the thread closing over her eyes.
+
+---
+
+## Open Questions
+* **What drained Naut, and will he wake up?** His will-born glow dimmed the closer they came to Ilvana's order, forcing him into hiding inside his sister's pendant - is Ilvana itself hostile to beings like him, and what happens if three days pass with no one around to tap the pendant?
+* **Is the Weaver the sister the party is searching for?** The pendant that guided them here belongs to Naut's missing sister, and Ilvana is ruled by a singular "Tejedora" who commands the very fabric of fate - are they the same person?
+* **What will happen to Kenshin?** He was led away by Readers specifically because his thread didn't fit the pattern - is he safe, and will he actually be brought before the Weaver herself?
+* **Can Romina be saved before her thread is unraveled?** She was bound, silenced, and blinded by living gold thread with no one else present to intervene - does "rewound and put away" mean death, imprisonment, or something else entirely?
+* **What is Ilvana actually afraid of?** A city with no crime, no beggars, and not a single armed guard in sight - what threat could possibly justify that much enforced perfection?

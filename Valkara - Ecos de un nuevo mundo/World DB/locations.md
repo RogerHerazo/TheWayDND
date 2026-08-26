@@ -41,14 +41,17 @@ A dangerous plane reached via The Arch. Feared and culturally avoided by the Ils
 ### The Aurora
 Victor's ship, marked with a red flower insignia. Its cargo/operations are unknown - possibly smuggling given Victor's secretive, monocled demeanor.
 Confirmed to smuggle people as well as goods; has a concealed hold reached through a hatch in the mast, and is crewed not by living sailors but by a handful of translucent ghost sailors Victor summons by flute. Now sailing toward Ilvana with the full party aboard (session 2026-07-28).
+Its ghost crew saw the party off with unexpected warmth at the Bay of Loose Knots, one of them lamenting that no one would ever again watch Kalen sweep the deck the way he once had, before the ship sailed off for good (session 2026-08-18).
 
 ### Ilvana
 An inland city, reachable from the coast by a roughly fifteen-day voyage. New destination the party redirected Victor toward, since the Arch proved too far inland to reach without cutting back through the closed city (session 2026-07-28).
 By reputation (per Victor, session 2026-08-11), a place of unsettling perfection - no one argues, steals, or is asked twice, and everyone performs their function without oversight. Reaching it from Doria requires going through the heretical Incompletes rather than the ruling Weavers.
+The party arrived in person (session 2026-08-18): a colossal white tower ringed by identical triangular buildings, entered through Reader-guarded stone arches after a ritualized interrogation. No crime, weapons, beggars, or disorder of any kind was visible anywhere in the city; ruled by an unseen "Tejedora" (see characters.md).
 
 ### The Kingdom of Doria
 A purely human kingdom on the coast, hosting no other Valkarian races. Ruled by a fused religion-and-government called the Weavers (see factions.md), whose agents, the Readers, judge outsiders by sight rather than papers, deciding whether a stranger fits into what they call "the Weave" (*la trama*).
 The party was delivered here after the Bielar granted *The Aurora* a magical current; Victor refused to enter the kingdom himself, dropping the party instead at the Bay of Loose Knots (session 2026-08-11).
+The overland route from the coast passes a line of numbered waymarker stones counting down toward Ilvana, and grows steadily more unnervingly perfect - flawless fruit, birdsong timed like a rehearsed score - the closer it gets to the city (session 2026-08-18).
 
 ### The Bay of Loose Knots (*Bahía de los Nudos Sueltos*)
 A remote, gull-quiet inlet beneath towering cliffs on the coast of Doria, where Victor dropped the party rather than risk entering the kingdom proper before sailing off for good (session 2026-08-11).
