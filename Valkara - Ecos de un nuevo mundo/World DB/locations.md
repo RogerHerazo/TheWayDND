@@ -44,6 +44,14 @@ Confirmed to smuggle people as well as goods; has a concealed hold reached throu
 
 ### Ilvana
 An inland city, reachable from the coast by a roughly fifteen-day voyage. New destination the party redirected Victor toward, since the Arch proved too far inland to reach without cutting back through the closed city (session 2026-07-28).
+By reputation (per Victor, session 2026-08-11), a place of unsettling perfection - no one argues, steals, or is asked twice, and everyone performs their function without oversight. Reaching it from Doria requires going through the heretical Incompletes rather than the ruling Weavers.
+
+### The Kingdom of Doria
+A purely human kingdom on the coast, hosting no other Valkarian races. Ruled by a fused religion-and-government called the Weavers (see factions.md), whose agents, the Readers, judge outsiders by sight rather than papers, deciding whether a stranger fits into what they call "the Weave" (*la trama*).
+The party was delivered here after the Bielar granted *The Aurora* a magical current; Victor refused to enter the kingdom himself, dropping the party instead at the Bay of Loose Knots (session 2026-08-11).
+
+### The Bay of Loose Knots (*Bahía de los Nudos Sueltos*)
+A remote, gull-quiet inlet beneath towering cliffs on the coast of Doria, where Victor dropped the party rather than risk entering the kingdom proper before sailing off for good (session 2026-08-11).
 
 ### Siltara
 A place devastated by the Aeonic being Nexus Vorath in a past incarnation of the party's lives, per a shared dream revelation. Sat directly above the Dunshal city of Belsharun. Nothing else about it is known yet (session 2026-07-28).

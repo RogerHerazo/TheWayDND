@@ -18,6 +18,7 @@ Possible organized group opposing the Crown. Suggested only by the mysterious fi
 
 ### The Casino
 An organization Kalen (and reportedly others in the party) are affiliated with - described as "adictos a las apuestas" (gambling addicts) but otherwise good people. As of session 2026-07-14, legally owns the entire Ilshiar district, after Naut used a land-cession cylinder recovered from Daef's body to sign it over. Its full nature, membership, and long-term intentions for the district are still unclear.
+A fragment-of-Will stranger now traveling with the party (see characters.md) claims to have grown rich at a casino before joining the voyage - possibly this same organization, though not confirmed (session 2026-08-11).
 
 ### The Dunshal
 A people, apparently the party's own origin in a past incarnation, tied to the city of Belsharun. Widely distrusted by the Ilshiar, who see them as dangerous and say they "move in shadows." Use a currency/gemstone called the *ectarion*.
@@ -25,6 +26,18 @@ Revealed via a shared party dream and via Victor identifying gemstones the party
 
 ### The Aeonics
 Beings tied to the party's original (human) world, seemingly capable of granting a "spark" of power to certain individuals - Kalen and Erios are both called "Aeonic sparks." Nexus Vorath, a hostile Aeonic, was brought into this world by humanity and devastated Siltara and Belsharun in a past incarnation of the party's lives; another Aeonic struck Kalen's pact never to return to Belsharun. Full nature and numbers unknown (session 2026-07-28).
+Per a fragment-of-Will stranger now traveling with the party, Aeonics are the living scars left when the primordial forces of Will and Destiny collided - a clash violent enough to form entire planes and worlds, Valkara among them. Each Aeonic is a unique, fragile balance of both forces and is bound permanently to the plane or world it was born in unless that plane is destroyed, at which point some invade other worlds (session 2026-08-11).
 
 ### The Silrin (unconfirmed spelling)
 A people or race the party's past incarnation apparently lived alongside, seen in a shared dream only as two tree-like figures. Almost nothing else about them is known - not even whether "Silrin" is the correct name (session 2026-07-28).
+
+### The Bielar
+A sea-folk at peace with the Ilshiar, though the two peoples rarely make direct contact - they simply know of each other and maintain good relations regardless. Ambushed *The Aurora* to destroy its magical lanterns, whose light was drawing the predator Borges (see characters.md) toward the ship.
+After a tense standoff, struck a bargain with the party (brokered by Romina) and granted the ship a magical current to speed it toward Doria, before returning to the sea and making clear they are not allies, merely a people protecting their own territory (session 2026-08-11).
+
+### The Weavers
+A fused religion-and-government ruling the human Kingdom of Doria, where praying and paying taxes are treated as one and the same. Judge outsiders through agents called Readers, who decide by sight alone whether a stranger fits into what they call "the Weave" (*la trama*), rather than by papers.
+Known (per Victor) to be intolerant of those who don't fit; the Incompletes are the only reliable way for smugglers and travelers to pass through Doria without their notice (session 2026-08-11).
+
+### The Incompletes
+Heretics within the Kingdom of Doria who reject the Weavers' doctrine. Per Victor, the only reason any smuggled goods or people make it past Doria into Ilvana at all. Not yet contacted by the party (session 2026-08-11).
