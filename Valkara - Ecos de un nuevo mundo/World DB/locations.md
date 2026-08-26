@@ -47,6 +47,11 @@ Its ghost crew saw the party off with unexpected warmth at the Bay of Loose Knot
 An inland city, reachable from the coast by a roughly fifteen-day voyage. New destination the party redirected Victor toward, since the Arch proved too far inland to reach without cutting back through the closed city (session 2026-07-28).
 By reputation (per Victor, session 2026-08-11), a place of unsettling perfection - no one argues, steals, or is asked twice, and everyone performs their function without oversight. Reaching it from Doria requires going through the heretical Incompletes rather than the ruling Weavers.
 The party arrived in person (session 2026-08-18): a colossal white tower ringed by identical triangular buildings, entered through Reader-guarded stone arches after a ritualized interrogation. No crime, weapons, beggars, or disorder of any kind was visible anywhere in the city; ruled by an unseen "Tejedora" (see characters.md).
+Beneath the tower lies a colossal circular hall lined with thousands of identical chairs, each holding a captive bound and cocooned in living gold thread - apparently where mismatched "threads" are processed and stored. Above it, the tower's upper floors hold a trapped puzzle room floored in color-coded plates (tied to the city's ranks of robes) and flanked by murals of a golden-robed woman associated with the Tejedora, guarding a room where three *tejedores* were found having lunch (session 2026-08-25).
+
+### Posada la Costura Justa ("The Fair Seam")
+A boarding house inside Ilvana and the first building the party found with any real decoration. Run by the innkeeper Reselvain (see characters.md), with a chef, Maren, working the kitchen.
+The broke party traded a day's labor here - waiting tables, tending bar, and stocking the pantry - for a room and three meals, before Fabio and then the others were intercepted and taken by Readers and *tejedores* while running an errand for the inn (session 2026-08-25).
 
 ### The Kingdom of Doria
 A purely human kingdom on the coast, hosting no other Valkarian races. Ruled by a fused religion-and-government called the Weavers (see factions.md), whose agents, the Readers, judge outsiders by sight rather than papers, deciding whether a stranger fits into what they call "the Weave" (*la trama*).
