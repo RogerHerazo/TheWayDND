@@ -29,7 +29,7 @@ Ten days into the voyage toward Ilvana, a stranger riding along with the party r
 
 ### 4. Ten Days on a Stolen Current
 * **A chronicle in the making:** Cael spent the downtime writing everything the party had done into an in-world record, treating it as the group's official, if embarrassingly detailed, account of events.
-* **A new spell, a spent gem:** Having watched the mysterious stranger cast *Counterspell* during the earlier confrontation, Cael spent one of the party's remaining Dunshal *ectarion* gems to learn the spell for himself.
+* **A new spell, a spent gem:** Having watched the mysterious stranger cast *Counterspell* during the earlier confrontation, Kalen spent one of the party's remaining Dunshal *ectarion* gems to learn the spell for himself.
 * **Processing exile:** Erios spent most of the voyage trying to work through the trauma of his exile, picking up what little he could about sailing from the ghost crew and sparring and practicing magic with Kalen between quieter moments.
 * **A collar's temper:** Kenshin meditated through much of the trip, working to control the surges of anger he'd noticed building in himself since he began wearing his cursed collar.
 * **A shadow in the deep:** On the first night of the crossing, the party glimpsed a massive, serpentine shape breach the ocean's surface some distance from the ship before vanishing back beneath the waves - a reminder that whatever *Borges* was, it was still out there.
