@@ -48,6 +48,10 @@ An inland city, reachable from the coast by a roughly fifteen-day voyage. New de
 By reputation (per Victor, session 2026-08-11), a place of unsettling perfection - no one argues, steals, or is asked twice, and everyone performs their function without oversight. Reaching it from Doria requires going through the heretical Incompletes rather than the ruling Weavers.
 The party arrived in person (session 2026-08-18): a colossal white tower ringed by identical triangular buildings, entered through Reader-guarded stone arches after a ritualized interrogation. No crime, weapons, beggars, or disorder of any kind was visible anywhere in the city; ruled by an unseen "Tejedora" (see characters.md).
 Beneath the tower lies a colossal circular hall lined with thousands of identical chairs, each holding a captive bound and cocooned in living gold thread - apparently where mismatched "threads" are processed and stored. Above it, the tower's upper floors hold a trapped puzzle room floored in color-coded plates (tied to the city's ranks of robes) and flanked by murals of a golden-robed woman associated with the Tejedora, guarding a room where three *tejedores* were found having lunch (session 2026-08-25).
+That dining room now lies scorched after the party's fight there; around it are a training hall where *tejedores* drill on straw dummies, a small sitting room tended by an oblivious old janitor, and the tower's artifact vault (see below) (session 2026-09-08).
+
+### The vault of closed consultations
+A huge storeroom in Ilvana's tower of boxes, sacks, and barrels on numbered metal racks, catalogued in a ledger titled *Registro de objetos de consulta cerrada*. Holds artifacts confiscated, deposited by the tower's "Architects," or simply unexplained. Lifting the ledger triggers a ray-firing statue. Thoroughly looted by the party (session 2026-09-08); a large *false-reading mirror* was left behind.
 
 ### Posada la Costura Justa ("The Fair Seam")
 A boarding house inside Ilvana and the first building the party found with any real decoration. Run by the innkeeper Reselvain (see characters.md), with a chef, Maren, working the kitchen.

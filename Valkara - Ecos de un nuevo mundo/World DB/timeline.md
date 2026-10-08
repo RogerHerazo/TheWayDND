@@ -33,3 +33,8 @@ Once inside, Kenshin is pulled away by Readers toward the Weaver herself, while 
 While waiting on word of Kenshin, the rest of the party trades a day's labor at an inn, *Posada la Costura Justa*, for room and board, learning the city's ritual customs and its hierarchy of blue-robed Readers and green-robed *tejedores*. One by one, Fabio, Mickey, Kalen, and Cael are intercepted while running an errand and bound in living gold thread in identical underground chambers, each having their "thread" read into the city's *trama* - Kalen is told his true role is to destabilize Ilvana entirely.
 Only Kenshin breaks free, aided by some hidden strength from the dormant Naut, waking in a vast hall of thousands of identical bound captives; he frees Mickey, Fabio, Kalen, Cael, Erios, and Romina herself.
 Climbing toward the tower's upper floors, the freed party survives a vicious thread-trap that nearly kills Kenshin, solves a color-coded floor puzzle tied to the city's ranks, and bursts in on three *tejedores* mid-meal just as combat begins.
+
+### Session - 2026-09-08: Lunch Interrupted and the Vault of Closed Consultations
+The party kills the three *tejedores* caught at lunch - one disintegrated by Kalen, one beheaded by Fabio after a false surrender, and the last self-detonating in a fireball that sets the room ablaze.
+Scouting the surrounding rooms, they find a training hall of *tejedores*, an oblivious old janitor, and a catalogued vault of confiscated and unexplained artifacts, which they loot thoroughly despite a trap.
+Romina binds Mickey to her curse of *Undying* just as trainees discover the scorched dining room; Kenshin cuts down two of them, but the third escapes behind a locked door that Fabio kicks in as the session ends.

@@ -12,6 +12,7 @@ Rigged the escape tunnel with a gunpowder trail and a false dead end, sparking i
 Told by Naut, revealed to be a fragment of pure Will, that his current self may be only a projection sustained by a ring, his true self still trapped in the Aeonic dimension since that very pact - and that breaking the ring would release its stored Aeonic power as a catastrophic explosion. Having watched Naut cast *Counterspell* during the earlier confrontation, spent one of the party's remaining Dunshal *ectarion* gems during the downtime to learn the spell for himself (session 2026-08-11).
 Spent a drunken night on the road to Ilvana trying and failing to freeze spilled liquor with *Shape Water* (session 2026-08-18).
 Waited tables at the *Posada la Costura Justa* for room and board, then was pulled aside by a Reader and *tejedor* while searching for Fabio; bound in gold thread, he was told his true thread's function in Ilvana is to *"completely destabilize the city"* before blacking out. Freed by Kenshin in the underground hall of bound captives, he swore - furious at the revelation - that the party would tear the city down themselves (session 2026-08-25).
+In the fight with the three lunching *tejedores*, poured *Eldritch Blast* into one until only his legs remained, out of open hatred for the city; dodged a *tejedor*'s twin fire columns entirely. Found a small black pouch tied with red thread in the tower vault that pours out gunpowder endlessly for as long as it is held upside down (session 2026-09-08).
 
 ### Erios
 Ashen (*cenizo*) youth, sorcerer. Scorching Ray, Sorcery Points, can alter his own facial features with magic.
@@ -22,6 +23,7 @@ Escaped the city via the tunnel and beach with Kalen and Fabio, then flew in on 
 Spent the voyage toward Doria working through the trauma of his exile, picking up scraps of sailing knowledge from the ghost crew and sparring and practicing magic with Kalen (session 2026-08-11).
 Tested the unnervingly perfect land outside Doria by deliberately kicking waymarker stones out of alignment, and talked his way into Ilvana by claiming his destiny was to save the world (session 2026-08-18).
 Captured off-screen along with the others and bound in gold thread somewhere in Ilvana's tower; freed by Kenshin from the underground hall of a thousand chairs (session 2026-08-25).
+Missed the fight with the lunching *tejedores*, having lingered behind staring at the golden-robed woman's mural in the puzzle room; in the tower vault, found a seamless, ornately inscribed crimson cape hidden in a muffled-sounding crate (session 2026-09-08).
 
 ### Kenshin
 Monk. Quarterstaff/longsword, Stunning Strike, Shifu technique.
@@ -32,6 +34,7 @@ Negotiated passage aboard *The Aurora* with Cael (session 2026-07-28); Mickey wa
 Held at blade-point during the Bielar's ambush of the ship, and spent the following voyage meditating to control surges of anger he'd noticed building in himself since taking up his cursed collar (session 2026-08-11).
 Activated the pendant to navigate the overland route toward Doria; at Ilvana's gate, cited "adopting my brother" as his wildest deed to a Reader. Was later singled out by a Reader as having a thread unlike any other and escorted deeper into the city by a squad of them, apparently toward the Weaver herself (session 2026-08-18).
 Alone among the party, refused to sit in the binding chair and, drawing on some unexplained hidden strength from the dormant Naut in his pendant, tore the golden thread apart with his sword before it could fully take hold. Woke in a colossal underground hall lined with thousands of identical bound captives and freed Mickey, Fabio, Kalen, Cael, Erios, and Romina himself; later triggered a far more vicious version of the thread-trap on a puzzle-room floor plate, taking heavy lacerating damage before the others cut and burned him free (session 2026-08-25).
+Opened the lunch fight with a flame-wreathed katana draw, but was later frozen in place by a kneeling *tejedor*'s compulsion spell after the man feigned surrender, and took a fireball head-on. Felt his blood boil with an urge to attack welling up from a gem he carries when nearing a room of *tejedores* - possibly the same anger tied to his cursed collar, unconfirmed - but mastered it. Found a pair of metal bracers in the tower vault, and cut two young *tejedor* trainees in half with *Shifu* and *Jinpu* when they discovered the party (session 2026-09-08).
 
 ### Fabio
 Heavy armor, giant shield, casts Magic Missile - also summons a spectral flying mount, "Chimuelo."
@@ -42,6 +45,7 @@ Shielded the group's tunnel escape from the gunpowder blast with his shield and 
 Held at trident-point during the Bielar's ambush of the ship (session 2026-08-11).
 Speculated that Ilvana's total, fearful discipline - no crime, no beggars, not even an armed guard in sight - must be hiding something worse than anything the party has faced yet (session 2026-08-18).
 Barred from the *Posada la Costura Justa*'s dining room for lack of a uniform and put to work in the stockroom instead; sent out for fruit, he was intercepted by a Reader, bound in gold thread, and calmed into inexplicable affection for his captor after a failed will save meant to stop him lunging at the man. Freed by Kenshin from the underground hall, he argued (unsuccessfully) for freeing every other captive there too, and later shielded the party's escape from a lethal thread-trap with his acid-slicked sword (session 2026-08-25).
+Guarded Mickey through the lunch fight, then beheaded the falsely surrendering *tejedor* with a radiant, flame-wreathed sword strike and caught the last one's fireball behind his shield. Was zapped by a trap for lifting the tower vault's ledger, read its catalogue aloud, and found a green-rimmed gold ring that steadily mends his wounds; kicked down the door the last fleeing trainee locked behind him (session 2026-09-08).
 
 ### Cael
 Monk. Flurry of Blows, Stunning Strike, Slow Fall reaction.
@@ -52,6 +56,7 @@ Negotiated *The Aurora*'s passage with Victor, then intimidated a scamming fruit
 Tried to take the Bielar's leader hostage during the sea ambush using his shadow-step ability and was stabbed twice for it; afterward has been keeping an in-world written chronicle of the party's exploits (session 2026-08-11).
 Warded himself (and incidentally Romina, standing next to him) with *Mesh Ward* during the drunken night on the road, and talked his way into Ilvana with a deliberately vague cover story about a mission for the Weaver (session 2026-08-18).
 Waited tables alongside Kalen at the *Posada la Costura Justa*, then was bound in gold thread like the others while searching for Fabio and Mickey. Freed by Kenshin from the underground hall, he later spotted a third, faded statue in the tower's puzzle room - distinct from the known blue (Reader) and green (*tejedor*) robes - that helped the party crack the floor-plate sequence (session 2026-08-25).
+Saw through a kneeling *tejedor*'s false surrender, answering it with a knee to the face and a *Flurry of Blows*; rolled under a table to evade a fireball. Found a scroll in the tower vault bearing a common-tongue poem wishing him good luck (*Lucky*) (session 2026-09-08).
 
 ### Romina
 Scourge Speech (amplified, unsettling voice), Misty Step, bird familiar/summon, Cause Fear.
@@ -62,6 +67,7 @@ Turned up unconscious near a fruit cart at the docks, apparently delivered there
 Awake and active by the time of the Bielar ambush; struck an unconventional bargain with the Bielar to end the standoff peacefully, an act that finally dissolved the long-standing inner emptiness and sense of owed debt she'd carried, leaving something like a feeling of credit in her favor instead (session 2026-08-11).
 **Captured** inside Ilvana's tower (session 2026-08-18): after learning and returning the Readers' ritual gesture to talk her own way into the city alone, she went straight to the central tower, where an aquamarine-robed weaver bound her in living golden thread and declared her thread would have to be unraveled and put away - the session ended with her bound, silenced, and blinded by the thread, fate unknown.
 **Freed** by Kenshin from the underground hall of a thousand bound captives, apparently unharmed by her time bound (session 2026-08-25). Rejoining the fight immediately, she was nearly dragged away entirely by a puzzle-room thread-trap after stepping on the wrong floor plate, saved only by Chimuelo snatching her clear; cut herself the rest of the way free with a dagger and later healed Kenshin's thread-lacerations.
+Wrapped herself and Cael in *Armor of Agathys* during the lunch fight and threatened the surrendering *tejedor* with *Ray of Frost* and *Scourge Speech*. In the tower vault, unsealed one of five trapped scrolls (the other four burned) whose letters taught her something as they vanished (*Observant*). Cast *Ailment Control* on Mickey, sharing her accursed *Undying* with him - "share a little of my pain" (session 2026-09-08).
 
 ## NPCs
 
@@ -119,6 +125,7 @@ Identity and motives unknown - possibly connected to an organized Resistance.
 Kenshin's pet rat. Fell unnoticed from Kenshin's shoulder during the rooftop chase after the Registry explosion and went missing (session 2026-07-14).
 Returned to the party at the docks, carried there by a talking bird he'd once helped find food for its family; reunited with Kenshin aboard *The Aurora* (session 2026-07-28).
 Reunited with the party again at the Bay of Loose Knots, arriving frozen and visibly traumatized after witnessing part of Romina's night with the Bielar; got roaringly drunk again on the road to Ilvana (session 2026-08-18).
+Nearly forgot he was in the lunch fight with the *tejedores* and took a fireball head-on; found a pair of tiny boots in his size in the tower vault, though he was more excited about the straw around them for a new bed. **Bound to Romina's *Undying*** via *Ailment Control*: he cannot die until it is lifted by *Dispel Magic*, *Greater Restoration*, or *Remove Curse* (session 2026-09-08).
 
 ### The old man
 Unnamed figure who appeared to the party in a shared dream, first as a rampaging dragon calmed by the party's music, then as an old man by a fogbound forest campfire.
@@ -154,3 +161,15 @@ Mentioned in passing that her late husband had been a Reader (session 2026-08-25
 
 ### Maren
 The *Posada la Costura Justa*'s chef, a large man unfazed by anything in his kitchen, including Kalen's chaotic fruit-chopping for the lunch service (session 2026-08-25).
+
+### The three lunching *tejedores*
+Three *tejedores* ambushed mid-meal in the tower's upper floors. Spellcasters wielding fire, conjured energy daggers, and touch-delivered compulsion. **All killed** (session 2026-09-08): one disintegrated by Kalen, one beheaded by Fabio after a false surrender used to freeze Kenshin in place, and the last self-detonated in a fireball that burned the room and the bodies.
+
+### The old janitor (unnamed)
+A tiny, elderly man mopping a sitting room (three armchairs, a fireplace) beside the tower's dining hall. Remained completely oblivious to the party throughout, still mopping even as Fabio kicked down his door (session 2026-09-08).
+
+### Solene Brey
+An "Architect" of Ilvana's tower, known only from the vault ledger: deposited a *false-reading mirror* used to verify subjects whose thread reads as suspiciously clean (session 2026-09-08). Not yet met.
+
+### Caelan Fray
+An "Architect" of Ilvana's tower, known only from the vault ledger: deposited a nameless dagger engraved *Tijeras* ("Scissors") and refused to record its purpose (session 2026-09-08). Not yet met; the party now holds the dagger.
