@@ -38,3 +38,8 @@ Climbing toward the tower's upper floors, the freed party survives a vicious thr
 The party kills the three *tejedores* caught at lunch - one disintegrated by Kalen, one beheaded by Fabio after a false surrender, and the last self-detonating in a fireball that sets the room ablaze.
 Scouting the surrounding rooms, they find a training hall of *tejedores*, an oblivious old janitor, and a catalogued vault of confiscated and unexplained artifacts, which they loot thoroughly despite a trap.
 Romina binds Mickey to her curse of *Undying* just as trainees discover the scorched dining room; Kenshin cuts down two of them, but the third escapes behind a locked door that Fabio kicks in as the session ends.
+
+### Session - 2026-09-23: The Needle Poem and the Architect of Destiny
+The tower's oblivious janitor, mistaking Fabio for an apprentice, teaches him and Kenshin a poem learned from the long-missing Architect Caelan Fray; after looting a locked bedroom for red-and-white robes as disguises, the party uses that poem to solve a room of symbol-marked pillars and climbs to the tower's summit.
+There they find the girl Emma - apparently Naut's sister - kneeling on the symbol of Destiny as the city's threads pour out of her, guarded by the Architect Solene Brey.
+Fabio hurls Mickey, wearing Naut's pendant, at Emma, and the fight that follows goes badly: Solene disarms and terrifies half the party, unravels Cael into golden thread, and clubs Mickey senseless, though Romina severs two of Emma's threads and Kenshin finally draws blood as the session breaks off mid-battle.
