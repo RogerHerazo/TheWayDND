@@ -53,6 +53,7 @@ Further up, past a trap-locked bedroom stocked with red-and-white robes, lie a r
 
 ### The chamber of Destiny
 The seamless circular chamber at the summit of Ilvana's tower. A raised, three-pointed golden knot carved into the floor - the symbol of *Destiny* - glows dimly at its center, where the girl Emma kneels as arm-thick braided golden threads flow from her out through small windows, splitting until they vanish, taut, over the whole city. Solene Brey keeps a carpet, golden glass table, and armchair to one side. Naut says the room is pure Destiny and would leave him useless outside the pendant. Site of the party's ongoing fight with Solene; the armchair and the wall behind it were wrecked by Kalen's barrage (session 2026-09-23).
+By session 2026-10-07 the sofa is broken and the wall riddled; Emma has stopped weaving and her threads are fading, and a final flash left every figure in the room looking identical to Kenshin.
 
 ### The vault of closed consultations
 A huge storeroom in Ilvana's tower of boxes, sacks, and barrels on numbered metal racks, catalogued in a ledger titled *Registro de objetos de consulta cerrada*. Holds artifacts confiscated, deposited by the tower's "Architects," or simply unexplained. Lifting the ledger triggers a ray-firing statue. Thoroughly looted by the party (session 2026-09-08); a large *false-reading mirror* was left behind.
