@@ -13,6 +13,7 @@ Session notes and living lore database for our D&D group's campaigns.
     - **`RawNotes/`** - raw transcription `.txt` files the session notes are generated from.
   - **`World DB/`** - the living reference for the active campaign: [characters](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/characters.md), [locations](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/locations.md), [factions](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/factions.md), [timeline](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/timeline.md), and [open plot threads](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/plot-threads.md). Updated after every new session - see its own [README](Valkara%20-%20Ecos%20de%20un%20nuevo%20mundo/World%20DB/README.md) for the exact update workflow.
   - **`Past/`** - earlier, unrelated campaigns (Session 6, Session 7, ...), kept for archive purposes only. Not tracked in the World DB.
+- **`tools/`** - `link_entities.py` adds Obsidian `[[wikilinks]]` for character, location and faction names across the notes (see below).
 - **`.claude/skills/`** - Claude Code skills that automate this repo's note-taking workflow (see below).
 - **`Images/`** - branding assets.
 
@@ -24,6 +25,16 @@ This repo ships two skills for teammates using Claude Code:
 - **`world-db-update`** - applies a new session note's events to the five World DB files (adding entries, updating existing ones, resolving plot threads).
 
 Typical flow: record the session -> transcribe it to a `.txt` file -> drop it in `Current/RawNotes/` -> run `/dnd-session-notes <path-to-transcript>` -> review -> run `/world-db-update`.
+
+## Obsidian
+
+The repo opens directly as an Obsidian vault ("Open folder as vault"). Names of characters, locations and factions are linked to their World DB entry (`[[characters#Kalen|Kalen]]`), which gives you backlinks and the graph view. After adding or editing notes, re-run:
+
+```
+py tools/link_entities.py
+```
+
+It only links the first mention per session note / World DB entry and is safe to run repeatedly. New World DB `###` entries are picked up automatically.
 
 ## How to contribute
 

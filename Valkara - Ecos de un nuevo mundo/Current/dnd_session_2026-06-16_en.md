@@ -1,7 +1,7 @@
 # D&D Session Summary: The Sparks of Rebellion
 
 ## Summary
-This session covers the chaotic aftermath of the Registry Office explosion caused by Kalen (Nico). While the city falls into a panic and anti-Ashen (*cenizo*) sentiment spikes among the human population, the party tracks a massive, gravity-manipulating elite guard known as "Mole" who is hot on Kalen's magical trail. Meanwhile, Kalen and an Ashen youth named Erios hide underground, uncovering a dangerous royal plot involving a planar gate known as "The Arch." The session culminates in a high-stakes confrontation in the *Ilshiar* district plaza, where Mole takes Erios's family hostage, leading to a tactical smoke screen rescue attempt and a brutal breakout into active combat.
+This session covers the chaotic aftermath of [[locations#The Registry Office|the Registry Office]] explosion caused by [[characters#Kalen|Kalen]] (Nico). While the city falls into a panic and anti-Ashen (*cenizo*) sentiment spikes among the human population, the party tracks a massive, gravity-manipulating elite guard known as "[[characters#Mole|Mole]]" who is hot on Kalen's magical trail. Meanwhile, Kalen and an Ashen youth named [[characters#Erios|Erios]] hide underground, uncovering a dangerous royal plot involving a planar gate known as "[[locations#The Arch|The Arch]]." The session culminates in a high-stakes confrontation in the *Ilshiar* district plaza, where Mole takes Erios's family hostage, leading to a tactical smoke screen rescue attempt and a brutal breakout into active combat.
 
 ## Key Events
 
@@ -10,12 +10,12 @@ This session covers the chaotic aftermath of the Registry Office explosion cause
 * **The Magic Tracker:** Following the blast, a massive elite guard named "Mole" arrived with a magic-tracking *báculo* (staff) to hunt down the perpetrator using the residual magical trail.
 
 ### 2. Rooftop Tracking & Market Reconnaissance
-* **Tracking Mole:** The main party (Kenshin, Fabio, and Cael) followed Mole and his guards through the city from the rooftops. Fabio, burdened by heavy armor and a giant shield, narrowly managed to scale the walls by following a path mapped out by Mickey the rat character.
-* **The Spice Market Intel:** Along the way, a party member investigated the local spice market. A vendor named Luis expressed intense human-supremacist hatred toward the *cenizos*, blaming them for the attack. Another vendor, Victor—distinguished by a red flower insignia representing his ship, *The Aurora*—revealed he saw two youths escaping into a nearby alley. The player bartered with Victor for a rare spice called saffron via a successful coin flip.
+* **Tracking Mole:** The main party ([[characters#Kenshin|Kenshin]], [[characters#Fabio|Fabio]], and [[characters#Cael|Cael]]) followed Mole and his guards through the city from the rooftops. Fabio, burdened by heavy armor and a giant shield, narrowly managed to scale the walls by following a path mapped out by [[characters#Mickey|Mickey]] the rat character.
+* **The Spice Market Intel:** Along the way, a party member investigated the local spice market. A vendor named [[characters#Luis|Luis]] expressed intense human-supremacist hatred toward the *cenizos*, blaming them for the attack. Another vendor, [[characters#Victor|Victor]]—distinguished by a red flower insignia representing his ship, *[[locations#The Aurora|The Aurora]]*—revealed he saw two youths escaping into a nearby alley. The player bartered with Victor for a rare spice called saffron via a successful coin flip.
 
 ### 3. Underground Secrets & The Arch
-* **The Royal Decree:** In their seaside cave hideout, Erios examined the stolen registry cylinders. While most were mundane contracts, one contained a critical order from the King to reconstruct "The Arch"—an ancient portal leading to a highly dangerous plane known as "The Path of the Veil" (*El Camino del Velo*), a place culturally feared and avoided by the *Ilshiar*.
-* **The Hostage Crisis Warned:** Erios's friend, Daef Arlos, arrived at the cave in a panic. He revealed that Mole had tracked the magic to Erios's home and taken his family hostage to force the culprit out.
+* **The Royal Decree:** In their seaside cave hideout, Erios examined the stolen registry cylinders. While most were mundane contracts, one contained a critical order from the King to reconstruct "The Arch"—an ancient portal leading to a highly dangerous plane known as "[[locations#The Path of the Veil (El Camino del Velo)|The Path of the Veil]]" (*El Camino del Velo*), a place culturally feared and avoided by the *Ilshiar*.
+* **The Hostage Crisis Warned:** Erios's friend, [[characters#Daef Arlos|Daef Arlos]], arrived at the cave in a panic. He revealed that Mole had tracked the magic to Erios's home and taken his family hostage to force the culprit out.
 * **The Escape Plan:** Kalen and Erios devised a plan to fake Erios's public execution using Kalen's explosions as a cover. Erios altered his facial features using magic to disguise his identity before they headed to the plaza.
 
 ### 4. Showdown at the Ilshiar Plaza

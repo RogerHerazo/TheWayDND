@@ -1,11 +1,11 @@
 # D&D Session Summary: The Needle Poem and the Architect of Destiny
 
 ## Summary
-Fabio's kick barely dented the janitor's door, and the tiny old man, mistaking him for an apprentice, cheerfully taught him and Kenshin a poem he'd learned from the long-missing Architect Caelan Fray: *"Needle to begin, spindle to hold fast, loom so it stays, scissors to finish."*
+[[characters#Fabio|Fabio]]'s kick barely dented the janitor's door, and the tiny old man, mistaking him for an apprentice, cheerfully taught him and [[characters#Kenshin|Kenshin]] a poem he'd learned from the long-missing Architect [[characters#Caelan Fray|Caelan Fray]]: *"Needle to begin, spindle to hold fast, loom so it stays, scissors to finish."*
 After searching a locked bedroom and dressing up in stolen red-and-white robes, the party used that very poem to solve a room of symbol-marked pillars, threading a golden cord from needle to scissors to open the way to a long spiral staircase.
-At the top they found the heart of Ilvana: a girl named Emma, kneeling motionless on the carved symbol of Destiny as the threads of the whole city poured out of her, watched over by the Architect Solene Brey, who claimed to be only her faithful follower.
-When Fabio threw Mickey - wearing Naut's pendant - at the girl in hopes of capturing her, the fight that followed went disastrously: Solene paralyzed Mickey, disarmed and terrified half the party, unraveled Cael into nothing but a floating golden thread, and clubbed Mickey senseless.
-The session ended mid-battle, with Kenshin's blades and Romina's thread-cutting finally drawing blood, while Fabio, compelled by Solene's command, prepared to walk straight into a thread.
+At the top they found the heart of [[locations#Ilvana|Ilvana]]: a girl named [[characters#Emma|Emma]], kneeling motionless on the carved symbol of Destiny as the threads of the whole city poured out of her, watched over by the Architect [[characters#Solene Brey|Solene Brey]], who claimed to be only her faithful follower.
+When Fabio threw [[characters#Mickey|Mickey]] - wearing [[characters#Naut|Naut]]'s pendant - at the girl in hopes of capturing her, the fight that followed went disastrously: Solene paralyzed Mickey, disarmed and terrified half the party, unraveled [[characters#Cael|Cael]] into nothing but a floating golden thread, and clubbed Mickey senseless.
+The session ended mid-battle, with Kenshin's blades and [[characters#Romina|Romina]]'s thread-cutting finally drawing blood, while Fabio, compelled by Solene's command, prepared to walk straight into a thread.
 
 ---
 
@@ -13,14 +13,14 @@ The session ended mid-battle, with Kenshin's blades and Romina's thread-cutting 
 
 ### 1. The Janitor's Poem
 * **A door that wouldn't budge:** Fabio's kick against the locked door raised only a cloud of dust, and the tiny janitor inside, squinting through his glasses, took him for a strong young apprentice who would surely make a fine Reader.
-* **Promoted to janitor:** The old man explained that he had been an apprentice for only about three hours before his destiny "arrived a little late" and made him caretaker of the whole tower, including the seventy-five *vaults of soul-weavings*, where he straightens the cocooned threads once the *tejedores* have extracted them.
+* **Promoted to janitor:** The old man explained that he had been an apprentice for only about three hours before his destiny "arrived a little late" and made him caretaker of the whole tower, including the seventy-five *vaults of soul-weavings*, where he straightens the cocooned threads once the *[[factions#The Weavers|tejedores]]* have extracted them.
 * **Asking after Fray:** He wondered aloud what had become of Architect Caelan Fray, whose office has been shut for a long time - "perhaps his thread went toward another weave" - and asked Fabio to tell Fray, if he saw him, that they still had a chess game to finish.
 * **The poem:** Fray had taught him a verse he recited to Fabio and Kenshin until they could repeat it back - *"Aguja para empezar, huso para no soltar, telar para que se quede, tijeras para terminar"* - rolling up his sleeves to show the four tools inked two to an arm.
 * **Off to clean:** Mentioning that another apprentice had just run past shouting something he couldn't make out, the janitor unlocked a side door and shuffled off, still murmuring the poem.
 
 ### 2. Spoils, Guilt, and Borrowed Robes
 * **The dead trainees:** Kenshin reported that the third trainee had escaped, and searching the two he'd killed left him shaken: they carried only wooden practice swords and ten silver each, and one held a leather wallet with an old photograph of himself beside a younger girl.
-* **What to do with the bodies:** Kalen began sprinkling gunpowder over the corpses to burn them, but after some argument the party left them where they lay.
+* **What to do with the bodies:** [[characters#Kalen|Kalen]] began sprinkling gunpowder over the corpses to burn them, but after some argument the party left them where they lay.
 * **Breaking into the bedroom:** Mickey's attempt to shape an ice lockpick went nowhere, so a hard kick broke the lock instead, opening onto a pristine bedroom.
 * **A needle in the chest:** Fabio felt a sharp prick on opening a trapped chest but shrugged off the poison, finding clothes, a pouch of twenty gold, and several red-and-white robes; a second chest held only ordinary journals, and the closet only common clothes.
 * **Disguises:** Most of the party pulled on the robes, and those left without one cut makeshift red tunics from the bedsheet - including one tailored to Mickey's rat-shaped silhouette.
@@ -33,7 +33,7 @@ The session ended mid-battle, with Kenshin's blades and Romina's thread-cutting 
 * **"You are not your mistakes":** On the climb, Kenshin admitted he hadn't expected the trainees to die from single blows and had thought they were adults; the party bickered over whose kills weighed heavier, and Kenshin was told not to be defined by one mistake.
 
 ### 4. The Chamber of Destiny
-* **The knot of Destiny:** The stairs ended in a seamless circular chamber where a raised, three-pointed golden knot carved into the floor - which Erios instantly recognized as the symbol of *Destiny* - glowed with a dim light.
+* **The knot of Destiny:** The stairs ended in a seamless circular chamber where a raised, three-pointed golden knot carved into the floor - which [[characters#Erios|Erios]] instantly recognized as the symbol of *Destiny* - glowed with a dim light.
 * **The girl at the center:** Kneeling motionless upon it was a young girl, and from her flowed arm-thick braided golden threads that left through the room's small windows, splitting again and again until they vanished, taut, over the entire city.
 * **Solene Brey:** Lounging on a great armchair beside a golden glass table was a dark-skinned woman with hair half black and half white, in a pompous white-and-gold robe covered in the converging-lines symbol and a brilliant pendant, who rose and remarked that the party was "a thread my subjects failed to cut."
 * **Naut's warning:** From within the pendant, Naut told Kenshin alone that this room was pure Destiny - that if he emerged now he would be rendered utterly useless, and that even hidden away he could feel his will bending before her.
@@ -44,7 +44,7 @@ The session ended mid-battle, with Kenshin's blades and Romina's thread-cutting 
 * **Thrown like a Pokéball:** Hoping the girl might be drawn into the pendant the way Naut was, Fabio hung it on Mickey and hurled him at Emma - but Mickey clipped a braided thread mid-flight and was yanked straight into Solene's waiting hand, where his body stiffened into paralysis.
 * **"Drop your weapons":** Solene's command made Kenshin let his katana fall from his belt, Cael drop his *báculo*, and Fabio drop his sword, and a second wave of her will left Kalen and Kenshin gripped by a terror rooted in her.
 * **The party's first answers:** Romina's *Scourge Speech* failed to make her release Mickey, so she gathered the fallen weapons back into her companions' hands; Kalen, trembling with fear, landed two blasts on Solene's shoulder that she barely registered; Erios's *Message* to Emma went unanswered; and Fabio's four *Magic Missiles* into her arm loosened her paralyzing grip on Mickey, though she still held him tight.
-* **Thread pinball:** Cael charged and was flung across the room by one braided thread into another before slamming into a wall; picking himself up, he worked out the threads' heights, slid beneath them, and reached her with *Step of the Wind*, warning that without help *Nexus Vorath* would destroy this world too - "That isn't in the weave. And neither are you. Soon."
+* **Thread pinball:** Cael charged and was flung across the room by one braided thread into another before slamming into a wall; picking himself up, he worked out the threads' heights, slid beneath them, and reached her with *Step of the Wind*, warning that without help *[[characters#Nexus Vorath|Nexus Vorath]]* would destroy this world too - "That isn't in the weave. And neither are you. Soon."
 * **Launched skyward:** Kenshin, fleeing in fear, struck another thread that hurled him thirty feet straight up, but rolled out of the fall unharmed and sank into meditation to master himself.
 * **Cael unravels:** Solene fixed Cael with a stare as her pendant and every thread in the room flared, and his body came apart into golden thread that wove away into nothing, leaving only a single strand drifting in the air.
 * **Mickey falls:** She re-paralyzed Mickey and struck him twice across the head with her staff, dropping him to the floor bruised, bleeding, and motionless, promising that "one way or another, I will correct the weave."

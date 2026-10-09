@@ -41,6 +41,10 @@ Apply one new session's events to the five living-reference files in `Valkara - 
 - If the session note states something as inferred or likely rather than certain (e.g. "almost certainly the same person as X, though never stated outright"), carry that same hedge into the World DB. Don't launder an inference into a flat fact just because it's convenient for a cleaner entry.
 - Prefer surgical edits (Edit, not Write) so unrelated existing content survives untouched. The only files that should ever be fully rewritten are ones you're creating for the first time.
 
+## Wikilinks
+
+After the five files are updated, run `py tools/link_entities.py` from the repo root (use `python` if `py` is unavailable) so new names are linked for Obsidian. It is idempotent. Do not hand-write wikilinks.
+
 ## Output
 
 After all five files are updated, give the user a short per-file summary of what changed (a few bullets, not a full diff) so they can sanity-check it before treating it as canon - don't just say "done."
